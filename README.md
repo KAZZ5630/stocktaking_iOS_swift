@@ -34,7 +34,7 @@ E-Pre iPhoneアプリ開発研修　自主制作課題
 https://github.com/KAZZ5630/stocktaking_iOS_swift/blob/main/NetworkDiagram.png
 
 ## ER図
-![image](https://user-images.githubusercontent.com/36586095/102746244-3866f800-43a1-11eb-9a46-f679fe3a20a1.png)
+https://user-images.githubusercontent.com/36586095/102746244-3866f800-43a1-11eb-9a46-f679fe3a20a1.png
 
 ## 作り込みポイント
 - 画面レイアウトを全てswiftで実装（GUIや設定ファイルで作ることもできる）
