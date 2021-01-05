@@ -31,7 +31,7 @@ E-Pre iPhoneアプリ開発研修　自主制作課題
 ![image](https://user-images.githubusercontent.com/36586095/102755747-2fcaed80-43b2-11eb-87fc-231818b6cf07.png)
 
 ## データフロー図
-https://github.com/infocom-tpa/stocktaking_iOS_swift/blob/main/NetworkDiagram.png
+https://github.com/KAZZ5630/stocktaking_iOS_swift/blob/main/NetworkDiagram.png
 
 ## ER図
 ![image](https://user-images.githubusercontent.com/36586095/102746244-3866f800-43a1-11eb-9a46-f679fe3a20a1.png)
