@@ -11,8 +11,8 @@ E-Pre iPhoneアプリ開発研修　自主制作課題
 - 各ページ戻るボタン
 
 ## アーキテクチャ
-<img width="" alt="architecture_drawio_-_diagrams_net" src="https://user-images.githubusercontent.com/36586095/103063565-11086900-45f5-11eb-8c93-798064eb0519.png">
 ＊研修終了後、AWSは閉鎖されているのでlocalhostサーバで代用。
+<img width="" alt="architecture_drawio_-_diagrams_net" src="https://user-images.githubusercontent.com/36586095/103063565-11086900-45f5-11eb-8c93-798064eb0519.png">
 
 ## 画面
 - ログイン認証画面  
