@@ -31,6 +31,16 @@ E-Pre iPhoneアプリ開発研修　自主制作課題
   
 ![image](https://user-images.githubusercontent.com/36586095/102755747-2fcaed80-43b2-11eb-87fc-231818b6cf07.png)
 
+## 開発スケジュール（実績）
+12/1~25の４週間でアプリ製作を行いました。
+大まかな実績は下記です。
+| フェーズ | 日程 |
+----|---- 
+| １週目 | AWS設定・詳細設計（画面構成、操作、API） |
+| ２週目 | 画面製作（在庫一覧） |
+| ３週目 | API製作・画面レイアウト調整 |
+| ４週目 | ログイン認証機能製作・デザイン調整 |
+
 ## データフロー図
 https://github.com/KAZZ5630/stocktaking_iOS_swift/blob/main/NetworkDiagram.png
 
