@@ -67,10 +67,12 @@ class ShowStockController: UIViewController {
                 .filter({$0.isKeyWindow})
                 .first
             
-            lPadding = window!.safeAreaInsets.left
-            rPadding = window!.safeAreaInsets.right
-            tPadding = window!.safeAreaInsets.top
-            bPadding = window!.safeAreaInsets.bottom
+            if let w = window {
+                lPadding = w.safeAreaInsets.left
+                rPadding = w.safeAreaInsets.right
+                tPadding = w.safeAreaInsets.top
+                bPadding = w.safeAreaInsets.bottom
+            }
         }
         
         let frame: ScreenSize = ScreenSize(
